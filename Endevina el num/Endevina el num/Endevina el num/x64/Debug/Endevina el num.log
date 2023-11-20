@@ -1,0 +1,3 @@
+﻿  Endevina el num.cpp
+F:\Programació\practiques\Endevina el num\Endevina el num\Endevina el num\Endevina el num.cpp(5,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Endevina el num.vcxproj -> F:\Programació\practiques\Endevina el num\Endevina el num\x64\Debug\Endevina el num.exe
